@@ -11,9 +11,14 @@ ________________________________________
 Metric	Value
 	
 Total Employees	1,470
+
 Total Attrition	237
+
 Attrition Rate	16.12%
+
 Average Age	37 years
+
 Average Salary	6.5K
+
 Average Years at Company	7 years
 ________________________________________
